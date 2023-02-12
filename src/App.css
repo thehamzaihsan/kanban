@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter/Inter-Medium.ttf);
+}
+
+body{
+    font-family: 'Inter';
+    background: url(https://images.unsplash.com/photo-1676048415949-2f4217282b13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Board{
+    background: rgba(73, 157, 247, 0.5) !important;
+    min-width: 250px;
+}
